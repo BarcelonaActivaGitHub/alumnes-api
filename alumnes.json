@@ -35,6 +35,12 @@
             "nom": "Míriam",
             "cognoms": "Estruga Sánchez",
             "nota": 6
-        }
+        },
+	{
+	    "aneu": 7,
+	    "nom": "Xènia",
+	    "cognom": "Perez Lecha",
+	    "nota": 8
+	}
     ]
 }
