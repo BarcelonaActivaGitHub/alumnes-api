@@ -14,7 +14,7 @@
         },
         {
             "id": 3,
-            "nom": "Marta",
+            "nom": "María",
             "cognoms": "Puig Abella",
             "nota": 7
         },
@@ -35,6 +35,17 @@
             "nom": "Míriam",
             "cognoms": "Estruga Sánchez",
             "nota": 6
-        }
+        },
+         {
+
+                 "Id": 7,
+
+                 "Nombre": "Xènia",
+
+                 "Apellidos": "Pérez Lecha",
+
+                 "Nota": 8
+
+             }
     ]
 }
