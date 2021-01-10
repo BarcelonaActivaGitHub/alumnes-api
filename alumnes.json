@@ -36,5 +36,11 @@
             "cognoms": "Estruga Sánchez",
             "nota": 6
         }
+		{
+            "id": 7,
+            "nom": "marcos",
+            "cognoms": "puertas ventanas",
+            "nota": 10
+        }
     ]
 }
