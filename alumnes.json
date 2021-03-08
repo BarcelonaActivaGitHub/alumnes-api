@@ -1,6 +1,18 @@
 {
     "alumnes": [
-        {
+		
+		
+		{
+              "aneu": 7,
+
+              "nom": "Xènia",
+
+              "cognoms": "Pérez Lecha",
+
+              "nota": 8
+
+         },
+		 {
             "id": 1,
             "nom": "Esther",
             "cognoms": "Ribes Penya",
