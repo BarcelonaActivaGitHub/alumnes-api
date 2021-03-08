@@ -1,6 +1,18 @@
 {
     "alumnes": [
-        {
+		
+		
+		{
+              "aneu": 7,
+
+              "nom": "Xènia",
+
+              "cognoms": "Pérez Lecha",
+
+              "nota": 8
+
+         },
+		 {
             "id": 1,
             "nom": "Esther",
             "cognoms": "Ribes Penya",
@@ -14,7 +26,7 @@
         },
         {
             "id": 3,
-            "nom": "Marta",
+            "nom": "Maria",
             "cognoms": "Puig Abella",
             "nota": 7
         },
