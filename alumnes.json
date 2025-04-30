@@ -8,13 +8,13 @@
         },
         {
             "id": 2,
-            "nom": "Joan",
+            "nom": "Joanna",
             "cognoms": "Castanyera Raventós",
             "nota": 7
         },
         {
             "id": 3,
-            "nom": "Marta",
+            "nom": "Maria",
             "cognoms": "Puig Abella",
             "nota": 7
         },
@@ -35,6 +35,24 @@
             "nom": "Míriam",
             "cognoms": "Estruga Sánchez",
             "nota": 6
+        },
+        {
+            "aneu": 7,
+            "nom": "Xènia",
+            "cognoms": "Pérez Lecha",
+            "nota": 8
+        },
+		{
+            "aneu": 8,
+            "nom": "Antonio",
+            "cognoms": "Lopez oreja",
+            "nota": 6.5
+        },
+		{
+            "aneu": 9,
+            "nom": "Pisituis",
+            "cognoms": "Mayor Arenga",
+            "nota": 10
         }
     ]
 }
