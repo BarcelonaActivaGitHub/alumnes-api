@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "alumnes": [
         {
@@ -14,7 +15,7 @@
         },
         {
             "id": 3,
-            "nom": "Maria",
+            "nom": "Marta",
             "cognoms": "Puig Abella",
             "nota": 7
         },
@@ -48,4 +49,56 @@
 
              }
     ]
+=======
+{
+    "alumnes": [
+        {
+            "id": 1,
+            "nom": "Esther",
+            "cognoms": "Ribes Penya",
+            "nota": 7.5
+        },
+        {
+            "id": 2,
+            "nom": "Joan",
+            "cognoms": "Castanyera Raventós",
+            "nota": 7
+        },
+        {
+            "id": 3,
+            "nom": "Marta",
+            "cognoms": "Puig Abella",
+            "nota": 7
+        },
+        {
+            "id": 4,
+            "nom": "Pere",
+            "cognoms": "Ribalta Nieto",
+            "nota": 7
+        },
+        {
+            "id": 5,
+            "nom": "Lluïs",
+            "cognoms": "Marco Mermi",
+            "nota": 6
+        },
+        {
+            "id": 6,
+            "nom": "Míriam",
+            "cognoms": "Estruga Sánchez",
+            "nota": 6
+        },
+	{
+
+                 "id": 7,
+
+                 "nom": "Xènia",
+
+                 "cognoms": "Pérez Lecha",
+
+                 "nota": 8
+
+             }
+    ]
+>>>>>>> f255fdff8160e6cdb60d59be7f44cf28a1316345
 }
