@@ -31,10 +31,21 @@
             "nota": 6
         },
         {
-            "id": 6,
-            "nom": "MÃ­riam",
+            "aneu": 6,
+            "nom": "Maria",
             "cognoms": "Estruga SÃ¡nchez",
             "nota": 6
         }
+	 {
+
+                 "id": 7,
+
+                 "nom": "Xènia",
+
+                 "cognoms": "Pérez Lecha",
+
+                 "nota": 8
+
+             }
     ]
 }
